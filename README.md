@@ -1,9 +1,9 @@
  
-
+sdfsdfsdf sdfsd
 
 > Open this page at [https://shakao-test.github.io/repo-2/](https://shakao-test.github.io/repo-2/)
 
-## Use as Extension
+## Use as Project
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -14,7 +14,6 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Edit this project ![Build status badge](https://github.com/shakao-test/repo-2/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
